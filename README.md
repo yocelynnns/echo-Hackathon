@@ -259,8 +259,7 @@ open echo-Hackathon/immersion.xcodeproj
 https://youtu.be/aNHaNLUb9bs
 
 ### 📊 Presentation Slides
-Add your PowerPoint or slide deck link here:
-<insert PowerPoint link>
+https://github.com/yocelynnns/echo-Hackathon/blob/main/echo%20visionOS.pdf
 
 ## 🔮 Future Enhancements
 
